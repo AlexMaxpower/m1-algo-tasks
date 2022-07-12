@@ -90,7 +90,7 @@ public class AlgorithmsTest {
         int[][] image;
         int[][] expected;
 
-        image = new int[][] {
+       image = new int[][] {
                 { 1, 2 },
                 { 3, 4 },
                 { 5, 6 }};
